@@ -1,0 +1,16 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+	modified:   .ipynb_checkpoints/Millennium x WICC Project-checkpoint.ipynb
+	modified:   .ipynb_checkpoints/Scraping New York Times Article-checkpoint.ipynb
+	modified:   Millennium x WICC Project.ipynb
+	modified:   Scraping New York Times Article.ipynb
+
+Untracked files:
+	-a
+	.ipynb_checkpoints/Combined-checkpoint.ipynb
+	AI_ML_Updated.csv
+	Combined.ipynb
+
+no changes added to commit
